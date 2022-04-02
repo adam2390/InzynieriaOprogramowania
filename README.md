@@ -1,5 +1,5 @@
 Autor: Adam Kędzierski
 
+To jest repozytorium z kalkulatorem  z Inzynierii Oprogramowania.
+Będą tutaj pierwsze proby dotyczace commitow i branchy a także funkcje tworzące kalkulator.
 
-To jest repozytorium testowe z Inzynierii Oprogramowania,
-będą tutaj pierwsze proby dotyczace commitow i branchy 
